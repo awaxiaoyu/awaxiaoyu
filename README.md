@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-https://stats.justsong.cn/api/bilibili/?id=57899386
+<img src="https://stats.justsong.cn/api/bilibili/?id=57899386">
