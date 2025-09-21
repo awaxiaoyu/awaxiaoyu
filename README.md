@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Bilibili-%23fb7299.svg?&style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/>
   </a>
   <a href="mailto:awaxiaoyu@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Outlook"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=outlook&logoColor=white" alt="Outlook"/>
   </a>
 </p>
 
