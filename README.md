@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and shar
 ### 🌟 Highlights
 
 - 🚀 **Open Source Enthusiast**: Actively contributing to open-source projects.
-- 💻 **Tech Stack**: Proficient in Python, JavaScript, and more.
+- 💻 **Tech Stack**: Proficient in C++, C, and more.
 - 🎯 **Focus Areas**: Automation, reverse engineering, and data analysis.
 
 ---
