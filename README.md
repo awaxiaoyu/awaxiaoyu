@@ -47,14 +47,6 @@ I'm a passionate developer from China, with a keen interest in open-source, reve
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=awaxiaoyu&show_icons=true&theme=tokyonight&count_private=true" alt="awaxiaoyu's GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaxiaoyu&layout=compact&theme=tokyonight" alt="Top Langs" />
-  </a>
-</p>
-<p align="center">
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=awaxiaoyu&theme=tokyonight" alt="GitHub Streak" />
     </a>
