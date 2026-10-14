@@ -20,7 +20,7 @@
 
 <br>
 
-### 🐾 我的拿手好戏
+### 🐾 My Skills
 
 - 🎮 **游戏逆向 & 底层开发**：C / C++、Windows、内存分析、Hook 与 DMA 调试。
 - 🤖 **AI Agent & MCP**：工具集成、任务编排与上下文管理。
@@ -28,7 +28,7 @@
 - 🧩 **全栈 & 桌面应用**：Go、Python、TypeScript，从 Web 服务到桌面 GUI。
 - 🔐 **授权 & 安全设计**：身份认证、设备绑定、密钥管理与客户端保护。
 
-### 🧶 用到的技术
+### 🧶 技术栈
 
 <p>
   <img src="./assets/tech-cpp.svg" height="32" alt="C / C++">
